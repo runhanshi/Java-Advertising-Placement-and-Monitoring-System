@@ -10,10 +10,6 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Map;
 import java.util.function.Supplier;
-
-/**
- * Created by Qinyi.
- */
 @Slf4j
 public class CommonUtils {
 

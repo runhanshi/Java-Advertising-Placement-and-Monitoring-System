@@ -13,10 +13,6 @@ import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentSkipListSet;
 import java.util.stream.Collectors;
-
-/**
- * Created by Qinyi.
- */
 @Slf4j
 @Component
 public class UnitDistrictIndex implements IndexAware<String, Set<Long>> {

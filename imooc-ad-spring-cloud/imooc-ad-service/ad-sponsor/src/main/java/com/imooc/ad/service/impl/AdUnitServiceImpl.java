@@ -36,10 +36,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
-
-/**
- * Created by Qinyi.
- */
 @Service
 public class AdUnitServiceImpl implements IAdUnitService {
 

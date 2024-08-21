@@ -16,10 +16,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-
-/**
- * Created by Qinyi.
- */
 @Slf4j
 @RestController
 public class AdPlanOPController {

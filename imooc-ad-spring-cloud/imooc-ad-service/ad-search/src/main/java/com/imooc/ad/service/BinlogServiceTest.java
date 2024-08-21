@@ -5,10 +5,6 @@ import com.github.shyiko.mysql.binlog.event.DeleteRowsEventData;
 import com.github.shyiko.mysql.binlog.event.EventData;
 import com.github.shyiko.mysql.binlog.event.UpdateRowsEventData;
 import com.github.shyiko.mysql.binlog.event.WriteRowsEventData;
-
-/**
- * Created by Qinyi.
- */
 public class BinlogServiceTest {
 
 //    Write---------------

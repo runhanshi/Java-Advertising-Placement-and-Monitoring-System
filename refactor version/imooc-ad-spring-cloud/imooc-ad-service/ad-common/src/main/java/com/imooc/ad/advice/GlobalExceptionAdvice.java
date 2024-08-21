@@ -10,7 +10,6 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * <h1>全局异常处理</h1>
  * RestControllerAdvice: 组合注解, ControllerAdvice + ResponseBody, 是对 RestController 的功能增强
- * Created by Qinyi.
  */
 @RestControllerAdvice
 public class GlobalExceptionAdvice {

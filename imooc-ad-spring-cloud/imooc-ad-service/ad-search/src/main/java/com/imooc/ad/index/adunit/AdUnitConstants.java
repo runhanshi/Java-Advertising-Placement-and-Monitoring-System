@@ -1,8 +1,5 @@
 package com.imooc.ad.index.adunit;
 
-/**
- * Created by Qinyi.
- */
 public class AdUnitConstants {
 
     public static class POSITION_TYPE {

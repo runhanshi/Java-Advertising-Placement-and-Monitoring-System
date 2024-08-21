@@ -30,10 +30,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 import java.util.Set;
-
-/**
- * Created by Qinyi.
- */
 @Slf4j
 @Service
 public class SearchImpl implements ISearch {

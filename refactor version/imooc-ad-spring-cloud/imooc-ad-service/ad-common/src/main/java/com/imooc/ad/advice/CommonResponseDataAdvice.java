@@ -15,7 +15,6 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
  * <h1>统一响应</h1>
  * RestControllerAdvice: 组合注解, ControllerAdvice + ResponseBody, 是对 RestController 的功能增强
  * ResponseBodyAdvice: 定义对响应处理的接口
- * Created by Qinyi.
  */
 @RestControllerAdvice
 public class CommonResponseDataAdvice implements ResponseBodyAdvice<Object> {

@@ -11,10 +11,6 @@ import com.imooc.ad.vo.AdUnitRequest;
 import com.imooc.ad.vo.AdUnitResponse;
 import com.imooc.ad.vo.CreativeUnitRequest;
 import com.imooc.ad.vo.CreativeUnitResponse;
-
-/**
- * Created by Qinyi.
- */
 public interface IAdUnitService {
 
     AdUnitResponse createUnit(AdUnitRequest request) throws AdException;

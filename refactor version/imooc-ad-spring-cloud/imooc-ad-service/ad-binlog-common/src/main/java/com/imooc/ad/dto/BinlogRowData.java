@@ -5,10 +5,6 @@ import lombok.Data;
 
 import java.util.List;
 import java.util.Map;
-
-/**
- * Created by Qinyi.
- */
 @Data
 public class BinlogRowData {
 

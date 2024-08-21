@@ -8,10 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;
-
-/**
- * Created by Qinyi.
- */
 @Slf4j
 @Component
 public class KafkaSender implements ISender {

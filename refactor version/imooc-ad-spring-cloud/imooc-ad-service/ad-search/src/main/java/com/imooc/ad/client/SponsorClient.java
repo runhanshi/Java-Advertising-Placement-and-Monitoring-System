@@ -9,10 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.List;
-
-/**
- * Created by Qinyi.
- */
 @FeignClient(value = "eureka-client-ad-sponsor",
         fallback = SponsorClientHystrix.class)
 public interface SponsorClient {

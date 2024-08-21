@@ -6,10 +6,6 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 import javax.servlet.http.HttpServletRequest;
-
-/**
- * Created by Qinyi.
- */
 @RestControllerAdvice
 public class GlobalExceptionAdvice {
 

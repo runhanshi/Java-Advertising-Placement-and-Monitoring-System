@@ -3,10 +3,6 @@ package com.imooc.ad.service;
 import com.imooc.ad.exception.AdException;
 import com.imooc.ad.vo.CreateUserRequest;
 import com.imooc.ad.vo.CreateUserResponse;
-
-/**
- * Created by Qinyi.
- */
 public interface IUserService {
 
     /**

@@ -16,10 +16,6 @@ import java.io.InputStream;
 import java.nio.charset.Charset;
 import java.util.List;
 import java.util.Map;
-
-/**
- * Created by Qinyi.
- */
 @Slf4j
 @Component
 public class TemplateHolder {

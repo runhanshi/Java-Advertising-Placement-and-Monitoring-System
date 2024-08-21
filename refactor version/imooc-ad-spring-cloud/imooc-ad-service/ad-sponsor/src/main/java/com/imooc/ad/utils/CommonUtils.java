@@ -5,10 +5,6 @@ import org.apache.commons.codec.digest.DigestUtils;
 import org.apache.commons.lang.time.DateUtils;
 
 import java.util.Date;
-
-/**
- * Created by Qinyi.
- */
 public class CommonUtils {
 
     private static String[] parsePatterns = {

@@ -10,10 +10,6 @@ import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
 
 import java.util.Optional;
-
-/**
- * Created by Qinyi.
- */
 @Slf4j
 @Component
 public class BinlogConsumer {

@@ -8,10 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
-
-/**
- * Created by Qinyi.
- */
 @Slf4j
 @Component
 public class BinlogClient {
